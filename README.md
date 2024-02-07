@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClementVU
 - 👀 I’m interested in Finance and BIG DATA
 - 🌱 I’m currently learning in ESCP EUROPE in Master of Science Big Data & Business Analytics
-- 💞️ I’m looking for an experience in the data field
+- 💞️ I’m looking for an experience in the Business & Data field
 - 📫 How to reach me : clement.vu@edu.escp.eu
 
 <!---
